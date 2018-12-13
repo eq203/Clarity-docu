@@ -5,7 +5,7 @@ const img = [
   'https://octodex.github.com/images/mcefeeline.jpg',
   'https://octodex.github.com/images/ironcat.jpg',
   'https://octodex.github.com/images/gracehoppertocat.jpg',
-  'https://ochttps://octodex.github.com/images/oktobercat.pngtodex.github.com/images/spidertocat.png',
+  'https://octodex.github.com/images/spidertocat.png',
   'https://octodex.github.com/images/octocat-de-los-muertos.jpg',
   'https://octodex.github.com/images/saritocat.png',
   'https://octodex.github.com/images/plumber.jpg',
