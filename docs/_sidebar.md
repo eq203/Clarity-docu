@@ -1,0 +1,5 @@
+ - Section 1
+    - [About Clarity](Clarity.md)
+    - Sub-Section 1
+  - Section 2
+    - Sub-Section 1
